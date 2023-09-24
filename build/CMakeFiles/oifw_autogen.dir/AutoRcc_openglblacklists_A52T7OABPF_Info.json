@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "X:/oifw/build/oifw_autogen",
+	"CMAKE_BINARY_DIR" : "X:/oifw/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "X:/oifw/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "X:/oifw",
+	"CMAKE_SOURCE_DIR" : "X:/oifw",
+	"INCLUDE_DIR" : "X:/oifw/build/oifw_autogen/include",
+	"INPUTS" : 
+	[
+		"X:/oifw/qt-static/qtbase/src/plugins/platforms/windows/openglblacklists/default.json"
+	],
+	"LOCK_FILE" : "X:/oifw/build/CMakeFiles/oifw_autogen.dir/AutoRcc_openglblacklists_A52T7OABPF_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "openglblacklists" ],
+	"OUTPUT_CHECKSUM" : "A52T7OABPF",
+	"OUTPUT_NAME" : "qrc_openglblacklists.cpp",
+	"RCC_EXECUTABLE" : "X:/oifw/qt-static/qtbase/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "X:/oifw/build/CMakeFiles/oifw_autogen.dir/AutoRcc_openglblacklists_A52T7OABPF_Used.txt",
+	"SOURCE" : "X:/oifw/qt-static/qtbase/src/plugins/platforms/windows/.rcc/openglblacklists.qrc",
+	"VERBOSITY" : 0
+}

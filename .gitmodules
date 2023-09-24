@@ -1,0 +1,6 @@
+[submodule "qt-static/qtbase"]
+	path = qt-static/qtbase
+	url = https://github.com/qt/qtbase
+[submodule "qt-static/qtbase-patched"]
+	path = qt-static/qtbase-patched
+	url = https://github.com/martchus/qtbase

@@ -1,0 +1,1147 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "oifw.exe"
+		},
+		{
+			"path" : "oifw.pdb"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"target_link_libraries",
+			"find_package",
+			"qt_find_package_system_or_bundled",
+			"find_dependency",
+			"_qt_internal_find_third_party_dependencies",
+			"include",
+			"set_target_properties",
+			"set_property",
+			"_pkg_create_imp_target",
+			"_pkg_recalculate",
+			"pkg_check_modules",
+			"_qt_internal_find_qt_dependencies",
+			"target_include_directories",
+			"target_compile_features"
+		],
+		"files" : 
+		[
+			"qt-static/qtbase-patched/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"qt-static/qtbase-patched/cmake/FindWrapSystemZLIB.cmake",
+			"qt-static/qtbase-patched/cmake/QtFindWrapHelper.cmake",
+			"qt-static/qtbase-patched/cmake/FindWrapZLIB.cmake",
+			"D:/msys64/ucrt64/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+			"qt-static/qtbase-patched/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"qt-static/qtbase-patched/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+			"qt-static/qtbase-patched/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"qt-static/qtbase-patched/lib/cmake/Qt6/Qt6Config.cmake",
+			"qt-static/qtbase-patched/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"qt-static/qtbase-patched/cmake/FindWrapSystemDoubleConversion.cmake",
+			"D:/msys64/ucrt64/share/cmake/Modules/FindPkgConfig.cmake",
+			"qt-static/qtbase-patched/cmake/FindLibb2.cmake",
+			"qt-static/qtbase-patched/cmake/FindWrapSystemPCRE2.cmake",
+			"qt-static/qtbase-patched/cmake/FindWrapPCRE2.cmake",
+			"qt-static/qtbase-patched/cmake/FindWrapZSTD.cmake",
+			"qt-static/qtbase-patched/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+			"qt-static/qtbase-patched/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 740,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 548,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 587,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 549,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 113,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"file" : 9,
+				"parent" : 7
+			},
+			{
+				"command" : 5,
+				"file" : 9,
+				"line" : 157,
+				"parent" : 8
+			},
+			{
+				"file" : 8,
+				"parent" : 9
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 40,
+				"parent" : 10
+			},
+			{
+				"file" : 7,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 30,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 36,
+				"parent" : 13
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 14
+			},
+			{
+				"file" : 4,
+				"parent" : 15
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 6,
+				"parent" : 16
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 69,
+				"parent" : 17
+			},
+			{
+				"file" : 2,
+				"parent" : 18
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 27,
+				"parent" : 19
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 52,
+				"parent" : 10
+			},
+			{
+				"file" : 10,
+				"parent" : 21
+			},
+			{
+				"command" : 10,
+				"file" : 10,
+				"line" : 56,
+				"parent" : 22
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 36,
+				"parent" : 13
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 24
+			},
+			{
+				"file" : 11,
+				"parent" : 25
+			},
+			{
+				"command" : 4,
+				"file" : 11,
+				"line" : 68,
+				"parent" : 26
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 36,
+				"parent" : 13
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 28
+			},
+			{
+				"file" : 13,
+				"parent" : 29
+			},
+			{
+				"command" : 14,
+				"file" : 13,
+				"line" : 16,
+				"parent" : 30
+			},
+			{
+				"command" : 13,
+				"file" : 12,
+				"line" : 837,
+				"parent" : 31
+			},
+			{
+				"command" : 12,
+				"file" : 12,
+				"line" : 339,
+				"parent" : 32
+			},
+			{
+				"command" : 11,
+				"file" : 12,
+				"line" : 320,
+				"parent" : 33
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 36,
+				"parent" : 13
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 35
+			},
+			{
+				"file" : 15,
+				"parent" : 36
+			},
+			{
+				"command" : 6,
+				"file" : 15,
+				"line" : 6,
+				"parent" : 37
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 69,
+				"parent" : 38
+			},
+			{
+				"file" : 14,
+				"parent" : 39
+			},
+			{
+				"command" : 4,
+				"file" : 14,
+				"line" : 57,
+				"parent" : 40
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 36,
+				"parent" : 13
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 42
+			},
+			{
+				"file" : 16,
+				"parent" : 43
+			},
+			{
+				"command" : 10,
+				"file" : 16,
+				"line" : 38,
+				"parent" : 44
+			},
+			{
+				"command" : 15,
+				"file" : 7,
+				"line" : 39,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 111,
+				"parent" : 46
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 47
+			},
+			{
+				"file" : 18,
+				"parent" : 48
+			},
+			{
+				"command" : 9,
+				"file" : 18,
+				"line" : 52,
+				"parent" : 49
+			},
+			{
+				"file" : 17,
+				"parent" : 50
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 56,
+				"parent" : 51
+			},
+			{
+				"command" : 16,
+				"file" : 1,
+				"line" : 78,
+				"parent" : 0
+			},
+			{
+				"command" : 17,
+				"file" : 1,
+				"line" : 71,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++20 -flto=auto -fno-fat-lto-objects"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fdata-sections"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_NEEDS_QMAIN"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WINVER=0x0A00"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_WIN32_WINNT=0x0A00"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "X:/oifw/build/oifw_autogen/include"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/src/corelib"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtConcurrent"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtDBus"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtDeviceDiscoverySupport"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtExampleIcons"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtFbSupport"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtGui"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtHarfbuzz"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtNetwork"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtOpenGLWidgets"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtPrintSupport"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtSql"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtTest"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtWidgets"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtXml"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "X:/oifw"
+				},
+				{
+					"backtrace" : 53,
+					"isSystem" : true,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include"
+				},
+				{
+					"backtrace" : 53,
+					"isSystem" : true,
+					"path" : "X:/oifw/qt-static/qtbase-patched/include/QtCore"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "X:/oifw/qt-static/qtbase-patched/mkspecs/win32-g++"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					54,
+					5,
+					5
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				5,
+				7,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "oifw_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "oifw_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "oifw::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g -flto=auto -fno-fat-lto-objects",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-static-libgcc -static-libstdc++  -mwindows",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-Wl,--gc-sections",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-static-libgcc -static-libstdc++",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-static",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-Wl,--start-group",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lb2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lbrotlicommon",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lbrotlidec",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lbz2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-ld3d9",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-ld3d11",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-ldcomp",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-ldouble-conversion",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-ldwmapi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-ldwrite",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-ldxgi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lfreetype",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-limm32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lmd4c",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lpcre2-16",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lpng",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lruntimeobject",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lsetupapi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lshcore",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lshlwapi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-luxtheme",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lversion",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lwtsapi32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lz",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lzstd",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6BundledHarfbuzz.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Concurrent.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6DBus.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6DeviceDiscoverySupport.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6EntryPoint.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6ExampleIcons.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6FbSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Network.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6OpenGL.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6OpenGLWidgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6PrintSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Sql.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Test.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6Xml.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\plugins\\platforms\\libqwindows.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\plugins\\styles\\libqwindowsvistastyle.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-Wl,--end-group",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "D:\\msys64\\ucrt64\\lib\\libz.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lsynchronization",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lmpr",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-luserenv",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-ladvapi32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lauthz",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lkernel32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lnetapi32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lole32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-luser32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-luuid",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lwinmm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "D:\\msys64\\ucrt64\\lib\\libdouble-conversion.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "D:\\msys64\\ucrt64\\lib\\libb2.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 41,
+				"fragment" : "D:\\msys64\\ucrt64\\lib\\libpcre2-16.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 45,
+				"fragment" : "D:\\msys64\\ucrt64\\lib\\libzstd.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "-lmingw32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "X:\\oifw\\qt-static\\qtbase-patched\\lib\\libQt6EntryPoint.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lshell32",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX",
+		"lto" : true
+	},
+	"name" : "oifw",
+	"nameOnDisk" : "oifw.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				5,
+				7,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				4,
+				6,
+				14
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				15
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "bannerwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "bannerwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "footerwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "footerwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "mainwindow.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "resource.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "qt-static/qtbase-patched/src/plugins/platforms/windows/.rcc/cursors.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "qt-static/qtbase-patched/src/plugins/platforms/windows/.rcc/openglblacklists.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "qt-static/qtbase-patched/src/widgets/.rcc/qmessagebox.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "qt-static/qtbase-patched/src/widgets/.rcc/qstyle.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/include/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/EWIEGA46WW/qrc_resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/KJ4HKIZ33X/qrc_cursors.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/KJ4HKIZ33X/qrc_openglblacklists.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/SQ3BURO5PW/qrc_qmessagebox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/SQ3BURO5PW/qrc_qstyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/EWIEGA46WW/qrc_resource.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/KJ4HKIZ33X/qrc_cursors.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/KJ4HKIZ33X/qrc_openglblacklists.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/SQ3BURO5PW/qrc_qmessagebox.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/oifw_autogen/SQ3BURO5PW/qrc_qstyle.cpp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}

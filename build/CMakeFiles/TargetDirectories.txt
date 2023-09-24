@@ -1,0 +1,5 @@
+X:/oifw/build/CMakeFiles/oifw.dir
+X:/oifw/build/CMakeFiles/edit_cache.dir
+X:/oifw/build/CMakeFiles/rebuild_cache.dir
+X:/oifw/build/CMakeFiles/oifw_autogen_timestamp_deps.dir
+X:/oifw/build/CMakeFiles/oifw_autogen.dir

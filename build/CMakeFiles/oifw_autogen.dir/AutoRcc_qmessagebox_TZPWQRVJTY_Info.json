@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "X:/oifw/build/oifw_autogen",
+	"CMAKE_BINARY_DIR" : "X:/oifw/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "X:/oifw/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "X:/oifw",
+	"CMAKE_SOURCE_DIR" : "X:/oifw",
+	"INCLUDE_DIR" : "X:/oifw/build/oifw_autogen/include",
+	"INPUTS" : [ "X:/oifw/qt-static/qtbase/src/widgets/dialogs/images/qtlogo-64.png" ],
+	"LOCK_FILE" : "X:/oifw/build/CMakeFiles/oifw_autogen.dir/AutoRcc_qmessagebox_TZPWQRVJTY_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qmessagebox" ],
+	"OUTPUT_CHECKSUM" : "TZPWQRVJTY",
+	"OUTPUT_NAME" : "qrc_qmessagebox.cpp",
+	"RCC_EXECUTABLE" : "X:/oifw/qt-static/qtbase/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "X:/oifw/build/CMakeFiles/oifw_autogen.dir/AutoRcc_qmessagebox_TZPWQRVJTY_Used.txt",
+	"SOURCE" : "X:/oifw/qt-static/qtbase/src/widgets/.rcc/qmessagebox.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "X:/oifw/build/oifw_autogen",
+	"CMAKE_BINARY_DIR" : "X:/oifw/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "X:/oifw/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "X:/oifw",
+	"CMAKE_SOURCE_DIR" : "X:/oifw",
+	"INCLUDE_DIR" : "X:/oifw/build/oifw_autogen/include",
+	"INPUTS" : [ "X:/oifw/icon.png" ],
+	"LOCK_FILE" : "X:/oifw/build/CMakeFiles/oifw_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "X:/oifw/qt-static/qtbase-patched/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "X:/oifw/build/CMakeFiles/oifw_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "X:/oifw/resource.qrc",
+	"VERBOSITY" : 0
+}
